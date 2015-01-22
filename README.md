@@ -1,4 +1,4 @@
-# Stepper-Motor-Elevator-Model
+# Stepper Motor Elevator Model
 Software written for an Elevator Simulator circuit. 
 
 ### Hardware used:  
